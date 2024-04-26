@@ -5,7 +5,7 @@ const Datascience = () => {
   const user=[
     {
       id:0,
-      image:"assets/Datascience/5.webp",
+      image:"../assets/Datascience/5.webp",
       sub:"Can A Commerce Student Do Data Science?",
       user:"Saakshi Priyadarshini",
       date:"16 Apr,2024",
