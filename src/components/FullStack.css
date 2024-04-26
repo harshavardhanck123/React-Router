@@ -1,0 +1,20 @@
+.content{
+    padding-top: 70px;
+}
+.card-text{
+    font-size: 12px;
+    font-family: "DM Sans", sans-serif;
+}
+.gap{
+  margin-left: 105px;
+}
+.card-subtitle{
+        font-size: 15px;
+        line-height: 1.5; /* Adjust the value as needed */   
+}
+.card-img-top {
+    width: 100%; /* Set the width to 100% of its parent container */
+    height: 150px; /* Set the fixed height for all images */
+    object-fit: cover; /* Ensure the image covers the entire area */
+  }
+  

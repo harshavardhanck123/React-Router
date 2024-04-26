@@ -1,0 +1,25 @@
+.style {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 270px;
+  /* Adjust the width as needed */
+  height: 100%;
+  margin: 10px;
+  /* Adjust the margin as needed */
+  transition: box-shadow 0.3s ease;
+  /* Adding transition effect for smoother hover */
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* Shadow effect on hover */
+}
+
+.navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-item .nav-link:hover {
+  background-color: lightgreen;
+}
