@@ -4,7 +4,7 @@ const FullStack = () => {
     const user=[
         {
           id:0,
-          image:"src/assets/Fullstack/person-front-computer-working-html.jpg",
+          image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395425/React-Router/kl2kb1ytxk9ha6nirqzp.jpg",
           sub:"Best Full-Stack Development Project Ideas in 2024",
           user:"Tarun Singh",
           date:"25 Mar,2024",
@@ -12,7 +12,7 @@ const FullStack = () => {
         },
         {
           id:1,
-          image:"src/assets/Fullstack/how-long-it-would-it-take-to-learn-full-stack-development_-2048x1072.webp",
+          image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395420/React-Router/h0pkajwltek8q5uzgfyd.webp",
           sub:"How Long Would It Take to Be a Full Stack Developer?",
           user:"Meghana D",
           date:"26 Mar,2024",
@@ -20,7 +20,7 @@ const FullStack = () => {
         },
         {
           id:2,
-          image:"src/assets/Fullstack/1_6rDcIgFJQldloIERiUSmzw.png",
+          image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395421/React-Router/ythnpkh2o19akolbd9vl.png",
           sub:"How does Apache work? A detailed introduction to Apache",
           user:"Tushar Vinocha",
           date:"26 Mar,2024",
@@ -28,7 +28,7 @@ const FullStack = () => {
         },
         {
             id:3,
-            image:"src/assets/Fullstack/Full-Stack-Developer-course-syllabus.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395420/React-Router/goehsfzhwnwnzdbsyumt.webp",
             sub:"Hot Topics That You Need To Know In Full Stack Developer Syllabus",
             user:"Archana",
             date:"26 Mar,2024",
@@ -36,7 +36,7 @@ const FullStack = () => {
           },
           {
             id:4,
-            image:"src/assets/Fullstack/DBMS1.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395420/React-Router/nrbzzk3ecgkiuinwy3o3.webp",
             sub:"10 Best Database Management Systems For Software Developers",
             user:"Isha Sharma",
             date:"22 Mar,2024",
@@ -44,7 +44,7 @@ const FullStack = () => {
           },
           {
             id:5,
-            image:"src/assets/Fullstack/react-768x402.jpg",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395421/React-Router/ccwq2kin9gnokpbxdakq.jpg",
             sub:"6 Essential Prerequisites For Learning ReactJS",
             user:"Ramkumar",
             date:"25 Mar,2024",
@@ -52,7 +52,7 @@ const FullStack = () => {
           },
           {
             id:6,
-            image:"src/assets/Fullstack/DBMS1.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395420/React-Router/nrbzzk3ecgkiuinwy3o3.webp",
             sub:"10 Best Database Management Systems For Software Developers",
             user:"Isha Sharma",
             date:"22 Mar,2024",
@@ -60,7 +60,7 @@ const FullStack = () => {
           },
           {
             id:7,
-            image:"src/assets/Fullstack/react-768x402.jpg",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714395421/React-Router/ccwq2kin9gnokpbxdakq.jpg ",
             sub:"6 Essential Prerequisites For Learning ReactJS",
             user:"Ramkumar",
             date:"25 Mar,2024",
