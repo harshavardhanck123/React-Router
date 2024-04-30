@@ -4,7 +4,7 @@ const Cyber = () => {
   const user = [
     {
       id: 0,
-      image: "src/assets/Cyber/8bfd01c18be1b5059bc0d7770d9dabf1.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453947/React-Router/cyber/ulkhvjqhaoo3gxlzfcul.webp",
       sub: "Is coding required for cybersecurity? If yes, how crucial is coding?...",
       user: "Tarun Singh",
       date: "25 Mar,2024",
@@ -12,7 +12,7 @@ const Cyber = () => {
     },
     {
       id: 1,
-      image: "src/assets/Cyber/Blog-9-768x402.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453912/React-Router/cyber/lvlhimfeyam2hgixv71f.webp",
       sub: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
       user: "Meghana D",
       date: "26 Mar,2024",
@@ -20,7 +20,7 @@ const Cyber = () => {
     },
     {
       id: 2,
-      image: "src/assets/Cyber/cybersecuity-.gif",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453935/React-Router/cyber/a4opvpvtag5z7fwkuznk.gif",
       sub: "What is Cybersecurity? Importance and its uses & the growing...",
       user: "Tushar Vinocha",
       date: "26 Mar,2024",
@@ -28,7 +28,7 @@ const Cyber = () => {
     },
     {
       id: 3,
-      image: "src/assets/Cyber/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453909/React-Router/cyber/jp6nehseoxmagdrxvsme.webp",
       sub: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
       user: "Archana",
       date: "26 Mar,2024",
@@ -36,7 +36,7 @@ const Cyber = () => {
     },
     {
       id: 4,
-      image: "src/assets/Cyber/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453909/React-Router/cyber/lkmwwvhppgvw8yvskbtl.webp",
       sub: "What Is Hacking? Types of Hacking & More",
       user: "Isha Sharma",
       date: "22 Mar,2024",
@@ -44,7 +44,7 @@ const Cyber = () => {
     },
     {
       id: 5,
-      image: "src/assets/Cyber/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453912/React-Router/cyber/yfc92es4gmvdj5bqu1gg.webp",
       sub: "8 Different Types of Cybersecurity and Threats Involved",
       user: "Ramkumar",
       date: "25 Mar,2024",
@@ -52,7 +52,7 @@ const Cyber = () => {
     },
     {
       id: 6,
-      image: "src/assets/Cyber/The-Ultimate- Cybersecurity-Roadmap-for-Beginners.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453912/React-Router/cyber/egmhjn1ke3xf1i15z2gb.webp",
       sub: "The Ultimate Cybersecurity Roadmap for Beginners",
       user: "Isha Sharma",
       date: "22 Mar,2024",
@@ -60,7 +60,7 @@ const Cyber = () => {
     },
     {
       id: 7,
-      image: "src/assets/Cyber/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.webp",
+      image: "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453915/React-Router/cyber/m1zkvbmyxlckvau7xvvr.webp",
       sub: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       user: "Isha Sharma",
       date: "22 Mar,2024",
