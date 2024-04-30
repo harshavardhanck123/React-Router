@@ -5,7 +5,7 @@ const All = () => {
   const user=[
     {
       id:0,
-      image:"src/assets/All/Render-array-of-objects-in-ReactJs.webp",
+      image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394273/React-Router/iiqeg80qpgai9s7gqody.jpg",
       sub:"How to Render an Array of Objects in React? [in 3 easy steps]",
       user:"Tarun Singh",
       date:"21 Mar,2024",
@@ -13,7 +13,7 @@ const All = () => {
     },
     {
       id:1,
-      image:"src/assets/All/Fetch-Data-using-API-in-React.webp",
+      image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394274/React-Router/hhiiy5ri8moo9ne44rt6.webp",
       sub:"Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
       user:"Tarun Singh",
       date:"21 Mar,2024",
@@ -21,7 +21,7 @@ const All = () => {
     },
     {
       id:2,
-      image:"src/assets/All/feature-image-unique-project-ideas.jpg",
+      image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394274/React-Router/dzcl8oqxa6oybylf9pw3.jpg",
       sub:"Top 10 Unique Project Ideas for College Students",
       user:"Lukesh S",
       date:"21 Mar,2024",
@@ -29,7 +29,7 @@ const All = () => {
     },
     {
         id:3,
-        image:"src/assets/All/blog-2-768x402.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394273/React-Router/rrwc1uziqszl7utop9cw.webp",
         sub:"Top 30 Mini Project Ideas For College Students [UPDATED]",
         user:"Srinithi Shankar",
         date:"25 Mar,2024",
@@ -37,7 +37,7 @@ const All = () => {
       },
       {
         id:4,
-        image:"src/assets/All/Feature-image-Mechanical-Engineering-Project-Ideas.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394273/React-Router/zpdxaiujnjfvbbv9acir.webp",
         sub:"20 Mechanical Engineering Project Ideas",
         user:"Meghana D",
         date:"25 Mar,2024",
@@ -45,7 +45,7 @@ const All = () => {
       },
       {
         id:5,
-        image:"src/assets/All/animated-javascript-project-image.jpg",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394273/React-Router/edecz6jlwbutpjfruh83.jpg",
         sub:"30 Best JavaScript Project Ideas For You [3 Bonus Portfolio Projects]",
         user:"Meghana D",
         date:"25 Mar,2024",
@@ -53,7 +53,7 @@ const All = () => {
       },
       {
         id:6,
-        image:"src/assets/All/programming-lang-features-image.jpg",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394274/React-Router/d417l0apdizry8kzjdpf.jpg",
         sub:"10 Hardest and Easiest Programming Languages in 2024",
         user:"Saakshi Priyadarshini",
         date:"22 Mar,2024",
@@ -61,7 +61,7 @@ const All = () => {
       },
       {
         id:7,
-        image:"src/assets/All/How-to-set-up.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714394274/React-Router/kewicsrl8kabtshupdcf.webp",
         sub:"How to Setup React Router v6? | Tutorial 2024",
         user:"Tarun Singh",
         date:"25 Mar,2024",
