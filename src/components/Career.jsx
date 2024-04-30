@@ -4,7 +4,7 @@ const FullStack = () => {
     const user=[
         {
           id:0,
-          image:"src/assets/Career/2202.i402.018.S.m004.c13.Devops-engineer-flat-composition-2048x1575.jpg",
+          image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/bbwyvpsw4i32axqdnyiw.jpg",
           sub:"As a Software Engineer, How Do I Shift My Career to DevOps?",
           user:"Lahari Chandana",
           date:"16 Mar,2024",
@@ -12,7 +12,7 @@ const FullStack = () => {
         },
         {
           id:1,
-          image:"src/assets/Career/Blog-1-1-768x402.webp",
+          image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456250/React-Router/career/avjksit0fnciiwtlo6u5.webp",
           sub:"Is Data Science A Good Career Choice In 2024?",
           user:"Archana",
           date:"16 Mar,2024",
@@ -20,7 +20,7 @@ const FullStack = () => {
         },
         {
           id:2,
-          image:"src/assets/Career/Feature-image-How-to-Become-a-Digital-Marketer-–-Digital-Marketing-Career-Roadmap.webp",
+          image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/kziakf1yxcudfs1xzsyo.webp",
           sub:"How to Become a Digital Marketer – Digital Marketing Career Roadmap",
           user:"Meghana D",
           date:"16 Mar,2024",
@@ -28,7 +28,7 @@ const FullStack = () => {
         },
         {
             id:3,
-            image:"src/assets/Career/Feature-image-Is-Choosing-Automation-Testing-a-Good-Career-Opportunity.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/reook9x3kxqvofeehmdp.webp",
             sub:"Is Choosing Automation Testing a Good Career Opportunity in 2024?",
             user:"Isha Sharma",
             date:"16 Mar,2024",
@@ -36,7 +36,7 @@ const FullStack = () => {
           },
           {
             id:4,
-            image:"src/assets/Career/Feature-image-Top-Technologies-to-Learn.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/ehuytpmdnsivjj3xgkcg.webp",
             sub:"Top Technologies to Learn in 2024: Jumpstart a Successful Tech Career",
             user:"Isha Sharma",
             date:"22 Mar,2024",
@@ -44,7 +44,7 @@ const FullStack = () => {
           },
           {
             id:5,
-            image:"src/assets/Career/Top-5-Tech-Careers-in-2023-1.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456251/React-Router/career/zbe5fbh50dc1qzmhksoc.webp",
             sub:"Top 5 Tech Careers of the Future [2024]",
             user:"Ramkumar",
             date:"25 Mar,2024",
@@ -52,7 +52,7 @@ const FullStack = () => {
           },
           {
             id:6,
-            image:"src/assets/Career/tumbnail-img-2-2048x1033.jpg",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456250/React-Router/career/lzcfkyf8m75o1thbn1wb.jpg",
             sub:"MEAN vs MERN: Career Growth & Salary",
             user:"admin",
             date:"22 Mar,2024",
@@ -60,7 +60,7 @@ const FullStack = () => {
           },
           {
             id:7,
-            image:"src/assets/Career/ui_ux_salary_guide_is_it_a_high_paying_career_feature_image.webp",
+            image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714456255/React-Router/career/nzju1cisrhanyyjoeeyq.webp",
             sub:"UI/UX Salary Guide 2024: Is it a High-Paying Career?",
             user:"Srinithi Shankar",
             date:"22 Mar,2024",
