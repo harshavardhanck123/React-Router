@@ -13,7 +13,7 @@ const Datascience = () => {
     },
     {
       id:1,
-      image:"../assets/Datascience/feature-image-product-based-companies-for-data-science-freshers.webp",
+      image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714392300/feature-image-product-based-companies-for-data-science-freshers_bapfqv.webp",
       sub:"Top Product-Based Companies for Data Science Freshers",
       user:"Jaishree Tomar",
       date:"10 Nov,2023",
@@ -21,7 +21,7 @@ const Datascience = () => {
     },
     {
       id:2,
-      image:"../assets/Datascience/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+      image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714392327/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science_rjl96f.webp",
       sub:"Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
       user:"Isha Sharma",
       date:"16 Mar,2024",
@@ -29,7 +29,7 @@ const Datascience = () => {
     },
     {
         id:3,
-        image:"../assets/Datascience/Feature-image-Top-Product-Based-Companies-for-Data-Scientists.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714392327/Feature-image-Top-Product-Based-Companies-for-Data-Scientists_pftnj7.webp",
         sub:"Top Product Based Companies for Data Scientists in 2024",
         user:"Jaishree Tomar",
         date:"26 Mar,2024",
@@ -37,7 +37,7 @@ const Datascience = () => {
       },
       {
         id:4,
-        image:"../assets/Datascience/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714392332/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072_v3cfqy.webp",
         sub:"How Long Would It Take to Learn Data Science?",
         user:"Meghana D",
         date:"22 Mar,2024",
@@ -45,7 +45,7 @@ const Datascience = () => {
       },
       {
         id:5,
-        image:"../assets/Datascience/image-4.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/f_auto,q_auto/image-4_pxbred",
         sub:"Roles and Responsibilities of a Data Scientist",
         user:"Ramkumar",
         date:"25 Mar,2024",
@@ -53,7 +53,7 @@ const Datascience = () => {
       },
       {
         id:6,
-        image:"../assets/Datascience/Real-World-Data-Science-Examples-2048x1072.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714392327/Real-World-Data-Science-Examples-2048x1072_kq8oov.webp",
         sub:"12 Real-World Data Science Examples: Power Of Data Science",
         user:"Isha Sharma",
         date:"22 Mar,2024",
@@ -61,7 +61,7 @@ const Datascience = () => {
       },
       {
         id:7,
-        image:"/assets/Datascience/Your-paragraph-text-2048x1024.webp",
+        image:"https://res.cloudinary.com/dofdsgzno/image/upload/v1714392328/Your-paragraph-text-2048x1024_gsk8uj.webp",
         sub:"Data Science vs Data Analytics | Best Career Choice in 2024",
         user:"Ramkumar",
         date:"25 Mar,2024",
